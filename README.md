@@ -1,2 +1,2 @@
 # newbindinghtm
-new pag
+new pa
