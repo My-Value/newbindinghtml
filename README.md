@@ -1,2 +1,2 @@
 # newbindinghtm
-new page a lo
+new page a l
