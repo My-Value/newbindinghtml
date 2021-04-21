@@ -1,2 +1,2 @@
 # newbindinghtm
-new page the te
+new page the t
