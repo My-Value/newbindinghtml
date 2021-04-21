@@ -1,2 +1,2 @@
 # newbindinghtm
-new pa
+new page the test
